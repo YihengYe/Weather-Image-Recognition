@@ -1,4 +1,10 @@
 # Weather-image-recognition
+This is the repository showcasing the presentation for project "Weather Image Recognition". Please download the pdf file to see the experiment results.
+
+# Team member:
+- Yiheng Ye
+- Scott He
+- Debalina Chowdhury
 # Problem:
 How to train specialized CNN models on complex real-world weather image recognition  dataset and improve the prediction accuracy.  In other words, we want to make better CNN models that can be used under actual images that include other objects (cars, houses, trees, etc.) to classify the current weather in a given image. Furthermore, there are also some irrelevant elements in the image collected like watermark, and we want our model to work through those interferences as well.
 # Data:
