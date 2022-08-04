@@ -1,5 +1,5 @@
 # Weather-image-recognition
-This is the repository showcasing the presentation for project "Weather Image Recognition". Please download the pdf file to see the experiment results.
+This is the repository showcasing the presentation for project "Weather Image Recognition". Please check the pdf file "Weather image recognition project.pdf" to see the experiment results.
 
 # Team member:
 - Yiheng Ye
